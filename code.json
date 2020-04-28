@@ -1,5 +1,4 @@
-{
-  "countries": [
+[
     {
       "code": "+7 840",
       "name": "Abkhazia"
@@ -945,4 +944,4 @@
       "name": "Zimbabwe"
     }
   ]
-}
+
